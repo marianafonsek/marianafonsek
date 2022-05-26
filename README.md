@@ -3,8 +3,8 @@
 ### Oi, eu sou a Mariana Fonseca
 
 🎓 Formada em Física 
-<br> 🔭 Em transição de carreira
-<br>🌱 Desenvolvedora back-end com foco em JAVA e AWS Cloud
+<br> Trabalhando com SRE no iFood, após uma transição de carreira
+<br>🌱 aprendizagem constante
 
 
 | <a href="https://github.com/marianafonsek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marianafonsek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mariana's github stats" /></a> | <a href="https://github.com/marianafonsek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafonsek&layout=compact&theme=buefy&hide_border=true" /></a> |
